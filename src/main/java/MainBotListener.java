@@ -13,7 +13,7 @@ import send.SendObjects;
 
 class MainBotListener extends BotListener {
 
-    private static final String BOT_TOKEN = "263076955:AAH1_1tqtMVLvf05eXP16G8ew2HMiQReM3I";
+    private static final String BOT_TOKEN = "";
     private SlackSession session;
 
     MainBotListener(SlackSession session) {

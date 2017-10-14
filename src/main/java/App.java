@@ -15,7 +15,7 @@ public class App {
             }
         });
 
-        SlackSession session = SlackSessionFactory.createWebSocketSlackSession("xoxb-58392546033-HaqrBS7vI1zUCc4MyCebuehD");
+        SlackSession session = SlackSessionFactory.createWebSocketSlackSession("");
 //        try {
 //            session.connect();
 //        } catch (IOException e) {
